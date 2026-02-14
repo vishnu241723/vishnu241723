@@ -73,8 +73,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishnu241723&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 📈 GitHub Activity Overview
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu241723&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Niranjan's Activity Graph" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true)
