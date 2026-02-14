@@ -97,13 +97,11 @@
 
 <div align="center">
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%" />
+![](https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <br><br>
+<br><br>
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vishnu241723&icon=5&color=3" />
-  </a>
+[![](https://visitcount.itsvg.in/api?id=vishnu241723&icon=5&color=3)](https://visitcount.itsvg.in)
 
 </div>
 
