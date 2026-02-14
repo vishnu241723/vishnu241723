@@ -20,31 +20,24 @@
 ### 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/vishnu-v2417/" target="blank">
-  <img align="center" 
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-       alt="vishnu-linkedin" />
-</a>
-&nbsp;
-
-<a href="mailto:vishnuvenkat2006@gmail.com" target="blank">
-  <img align="center" 
-       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-       alt="vishnu-email" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vishnu-linkedin" />
 </a>
 &nbsp;
 
 <a href="https://www.hackerrank.com/profile/vishnuvenkat2006" target="blank">
-  <img align="center" 
-       src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
-       alt="vishnu-hackerrank" />
+  <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vishnu-hackerrank" />
 </a>
 &nbsp;
 
 <a href="https://leetcode.com/u/vishnu241723/" target="blank">
-  <img align="center" 
-       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
-       alt="vishnu-leetcode" />
+  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="vishnu-leetcode" />
 </a>
+&nbsp;
+
+<a href="mailto:vishnuvenkat2006@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="vishnu-email" />
+</a>
+
 <br>
 <br>
 
