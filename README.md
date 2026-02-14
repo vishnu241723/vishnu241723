@@ -95,27 +95,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
-    height="170"
-  />
-
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false" 
-    height="170"
-  />
-
-  <br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    height="170"
-  />
-
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
