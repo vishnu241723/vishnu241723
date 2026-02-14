@@ -27,10 +27,25 @@
        src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
        alt="vishnu-email" />
 </a>
+&nbsp;
+
+<a href="https://www.hackerrank.com/profile/vishnuvenkat2006" target="blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
+       alt="vishnu-hackerrank" />
+</a>
+&nbsp;
+
+<a href="https://leetcode.com/u/vishnu241723/" target="blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
+       alt="vishnu-leetcode" />
+</a>
+
 <br>
 <br>
 
-# 💻 Tech Stack:
+# 💻 Expertise in:
 <p align="left">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
@@ -38,23 +53,15 @@
   <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="julia" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
-  <img src="https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="apache" />
-  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="adobe-photoshop" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" />
-  <img src="https://img.shields.io/badge/cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black" alt="cisco" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="raspberry-pi" />
 </p>
 
 ### 📚 Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/angularjs-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs" />
-  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/angularjs-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs" />
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </p>
 
