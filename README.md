@@ -18,6 +18,7 @@
 
 
 ### 🌐 Socials:
+<p align="center">
 <a href="https://www.linkedin.com/in/vishnu-v2417/" target="blank">
   <img align="center" 
        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -50,7 +51,7 @@
 
 
 ### 💻 Expertise in:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
@@ -61,7 +62,7 @@
 
 
 ### 📚 Currently Learning:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
