@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" width="280" alt="Night Coding Gif">
 
-  <h1>Hi there 👋 I'm Vishnu Prasad V</h1>
+  <h1>Hi there..👋 I'm Vishnu Prasad V</h1>
 
   <h3>Electronics and Communication Engineer | Passionate Programmer | Tech Innovator</h3>
 
