@@ -6,7 +6,7 @@
 
 ### Electronics and Communication Engineer | Passionate Programmer | Tech Innovator
 
-- 🔭 **Ex-Intern** under the Research and Development area *Internet of Things (IoT) and Cloud Architect (AWS)* @ IITM Research Park
+- 🔭 **Ex-Intern** under the Research and Development area **Internet of Things (IoT) and Cloud Architect (AWS)** @ IITM Research Park
 - 🌱 I’m currently learning **MERN Stack, AngularJS, and Kotlin**
 - 📫 How to reach me: <a href="mailto:vishnuvenkat2006@gmail.com">vishnuvenkat2006@gmail.com</a>
 
