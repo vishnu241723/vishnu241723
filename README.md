@@ -86,8 +86,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
->
-
 
 
 ### 📈 GitHub Activity Overview:
@@ -96,9 +94,20 @@
 </div>
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%" />
+
+  <br><br>
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=vishnu241723&icon=5&color=3" />
+  </a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishnu241723&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
