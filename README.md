@@ -63,7 +63,7 @@
 
 ### ☁️ Cloud & Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/aws/FF9900" width="40" style="margin-right:15px;"/>
+  <img src="<img src="https://cdn.simpleicons.org/amazonaws/FFFFFF" width="40" style="margin-right:15px;"/>
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" style="margin-right:15px;"/>
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40"/>
 </p>
