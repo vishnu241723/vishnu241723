@@ -5,7 +5,7 @@
 
   <h3>Electronics and Communication Engineer | Passionate Programmer | Tech Innovator</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);Full+Stack+Developer;Problem+Solver+%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);Problem+Solver+%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Expertise In
 
 ### 🧠 Languages
 <p>
@@ -59,21 +59,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+### 📚 Currently Learning
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-</p>
-
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
 
 ---
 
@@ -89,9 +92,8 @@
 ## 📂 Featured Projects
 
 🔹 **GroceryGo** – E-Commerce Web App (Full Stack + UI Effects)  
-🔹 **GeoFleet** – Smart GPS Route Optimization System  
-🔹 **Volunteer Management Platform** – Infosys Springboard Project  
-🔹 **AICTE University Info Portal** – Academic Mini Project  
+🔹 **GeoFleet** – Smart GPS Route Optimization System   
+🔹 **AICTE University** – Info Portal (Data Structures and Algorithms)
 
 ---
 
