@@ -67,7 +67,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
@@ -77,10 +76,26 @@
 
 ## 🏆 HackerRank Highlights
 
-- ⭐ 5★ Problem Solving  
-- ⭐ 5★ C++  
-- 🏅 Java Certified  
-- 💰 1500+ Hackos  
+<p align="left">
+  <!-- HackerRank Logo -->
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+
+  <!-- Star for 5★ -->
+  <img src="https://cdn.simpleicons.org/star/FFD700" width="40"/>
+</p>
+
+<p>
+⭐ 5★ Problem Solving <br>
+⭐ 5★ C++ <br>
+🏅 Java Certified <br>
+💰 1500+ Hackos
+</p>
 
 ---
 
