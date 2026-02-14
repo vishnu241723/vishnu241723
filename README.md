@@ -75,17 +75,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="75%" />
+![](https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-  <br><br>
+<br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false" width="75%" />
+![](https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false)
 
-  <br><br>
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="75%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+>
 
 
 
