@@ -109,14 +109,6 @@
 
 ---
 
-## 👀 Visitor Count
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vishnu241723&icon=5&color=6" />
-</div>
-
----
-
 ## ✨ Quote I Believe In
 
 > “Consistency beats motivation. Code daily. Improve endlessly.”
