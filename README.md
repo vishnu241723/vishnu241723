@@ -70,6 +70,14 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </p>
 
+### 🏆 HackerRank Profile
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/vishnuvenkat2006" target="_blank">
+    <img src="https://img.shields.io/badge/View%20HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
 
 ### 📊 GitHub Stats:
 
