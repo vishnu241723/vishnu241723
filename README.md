@@ -74,27 +74,16 @@
 
 ---
 
-## 🏆 HackerRank Highlights
+## 🏆 HackerRank Stats
 
 <p align="left">
-  <!-- HackerRank Logo -->
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
-
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-
-  <!-- Star for 5★ -->
-  <img src="https://cdn.simpleicons.org/star/FFD700" width="40"/>
-</p>
-
-<p>
-⭐ 5★ Problem Solving <br>
-⭐ 5★ C++ <br>
-🏅 Java Certified <br>
-💰 1500+ Hackos
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="25"/> 1571 Hackos  
+  <br>
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="25"/> 5★ Problem Solving  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/> 5★ C++  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java Certified  
 </p>
 
 ---
