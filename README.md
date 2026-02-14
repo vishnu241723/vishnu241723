@@ -51,7 +51,7 @@
 
 
 ### 💻 Expertise in:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
@@ -62,7 +62,7 @@
 
 
 ### 📚 Currently Learning:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
@@ -73,7 +73,7 @@
 
 ### 🏆 HackerRank Stats
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Hackos-1571-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-5★-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-5★-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
