@@ -70,12 +70,13 @@
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </p>
 
-### 🏆 HackerRank Profile
+### 🏆 HackerRank Stats
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/vishnuvenkat2006" target="_blank">
-    <img src="https://img.shields.io/badge/View%20HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Hackos-1571-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-5★-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-5★-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Certified-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </p>
 
 
