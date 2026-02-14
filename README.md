@@ -101,14 +101,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu241723&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
