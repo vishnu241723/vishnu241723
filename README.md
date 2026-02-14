@@ -93,7 +93,25 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+  <br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu241723&theme=tokyo-night&hide_border=true" />
