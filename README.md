@@ -16,7 +16,8 @@
 
 <br>
 
-## 🌐 Socials:
+
+### 🌐 Socials:
 <a href="https://www.linkedin.com/in/vishnu-v2417/" target="blank">
   <img align="center" 
        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -47,7 +48,8 @@
 <br>
 <br>
 
-# 💻 Expertise in:
+
+### 💻 Expertise in:
 <p align="left">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
@@ -57,7 +59,8 @@
   <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r" />
 </p>
 
-### 📚 Currently Learning
+
+### 📚 Currently Learning:
 <p align="left">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
   <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
@@ -68,17 +71,29 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats:
 
-### 📈 GitHub Activity Overview
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="90%" />
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=vishnu241723&theme=dark&hide_border=false" width="90%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu241723&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="90%" />
+
+</div>
+
+
+### 📈 GitHub Activity Overview:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu241723&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Niranjan's Activity Graph" />
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=vishnu241723&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
