@@ -5,7 +5,7 @@
 
   <h3>Electronics and Communication Engineer | Passionate Programmer | Tech Innovator</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);C+%7C+CPP+%7C+Python+%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);Problem Solving+%7C+C+%7C+CPP+%7C+Python+%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
 </div>
 
 ---
