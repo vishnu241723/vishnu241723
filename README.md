@@ -5,7 +5,7 @@
 
   <h3>Electronics and Communication Engineer | Passionate Programmer | Tech Innovator</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);Problem+Solving+C+CPP+Python%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IoT+%7C+Cloud+Architect+(AWS);Problem+Solving+,+ C+,+ CPP+,+ Python%7C+5%E2%AD%90+HackerRank;Always+Learning+New+Tech+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -77,7 +77,7 @@
 ## 🏆 HackerRank Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Hackos-1571-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackos-2003-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/C-5★-2EC866?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-5★-2EC866?style=for-the-badge&logo=cplusplus&logoColor=white" />
