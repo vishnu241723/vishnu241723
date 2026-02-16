@@ -23,7 +23,7 @@
 ## 🏆 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/vishnu241723?theme=dark&font=Fira+Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/vishnu241723?theme=dark&font=Fira+Code" width="600"/>
 </div>
 
 ---
