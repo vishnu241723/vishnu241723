@@ -96,10 +96,13 @@
 
 ## 📂 Featured Projects
 
-🔹 **GroceryGo** – E-Commerce Web App (Full Stack + UI Effects)  
-🔹 **GeoFleet** – Smart GPS Route Optimization System   
-🔹 **AICTE University** – Info Portal (Data Structures and Algorithms)
-🔹 **Greenhouse Automation** - Automatic Plant Watering System (C and C++)
+🔹 **GroceryGo** – E-Commerce Web Application *(Full Stack + Advanced UI Effects)*  
+
+🔹 **GeoFleet** – Smart GPS Route Optimization System  
+
+🔹 **AICTE University Portal** – Information Portal *(Data Structures & Algorithms Based)*  
+
+🔹 **Greenhouse Automation** – Automatic Plant Watering System *(C & C++)*  
 
 ---
 
